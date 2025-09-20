@@ -1,1 +1,1 @@
-# AweFullPeopleApp-NoAI-M
+# AweFullPeopleApp-NoAI-MiniMVP
